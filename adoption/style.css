@@ -1,0 +1,121 @@
+/*SOEN287 Assignment #4: Project #3 - Wan Lan He - 29469419*/
+
+body {
+	font-family: sans-serif;
+	background-color: #white;
+	
+}
+	
+body p {
+	font-size: 10px;
+	line-height: 3;
+}
+	
+#wrapper {
+	position: relative;
+	width: 100%;
+	background-color: white;
+	margin: 0 auto;
+
+}
+
+
+#header{	
+	background-color: #006666;
+    color:white;
+    text-align:center;
+    padding:5px;
+    text-transform: uppercase;
+    text-size: 70px;
+    width:100%;
+}
+
+#content {
+	float: right;
+	height: 500px;
+	width: 100%;
+	left: 150px;
+	color: purple;
+	background-image:url(http://www.vogai.com/wp-content/uploads/2010/05/pet-background-1024x768.jpg);
+	text-align: center;	
+}
+
+#content2 {
+	float: right;
+	height: 500px;
+	width: 100%;
+	left: 150px;
+	color: purple;
+	background-image:url(http://www.vogai.com/wp-content/uploads/2010/05/pet-background-1024x768.jpg);
+}
+
+#content img{
+    top: 50px;
+    left: 150px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 2px;
+    width: 200px;
+    text-size: 25px;
+}
+
+#contact #map{
+	position: absolute;
+	top: 40px;
+    left: 300px;
+    padding: 20px;
+}
+
+#contact{
+	position: relative;
+	float:left;
+	width:100%;
+	left: 150px;
+	height: 460px;
+	text-align: left;
+	background-color: grey;
+	padding: 20px;
+}
+
+
+#sidebar{
+	position: absolute;
+	background-color: #009999;
+	float: left;
+	width: 150px;
+	height: 500px;
+}
+
+#nav ul {
+	margin:  0;
+	width: auto;
+	display: none;
+}
+
+#nav li{
+	font-size: 19px;
+	width: 100px;
+	height: 50px;
+	display: inline-block;  
+    padding: 5px;
+}
+
+#nav a:link, nav a:active, nav a:visited {
+	color: #red;
+	text-decoration: none;
+}
+
+#nav a:hover {
+    background-color:#006633;
+    color:#green;
+}
+
+footer {
+	top: 10px;
+	background-color: #006666;
+    color:white;
+    clear:both;
+    width:100%;
+    text-align:center;
+    padding:10px;
+}
