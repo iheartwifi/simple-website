@@ -1,1 +1,1 @@
-# simple-website
+pour un cours d'école en programmation: Création d’un compte, recherche les types d'animaux pour l'adoption, enregistrer un animal en adoption. Méthodes d'authentifications avec le nom d'utilisateur et  le mot de passe. Languages : HTML5, CSS, JavaScript, PHP.
